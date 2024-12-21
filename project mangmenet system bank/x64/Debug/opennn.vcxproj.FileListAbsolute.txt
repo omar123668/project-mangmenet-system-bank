@@ -1,0 +1,3 @@
+C:\Users\lenovo\Desktop\Projectes-DataStructer-main\Projectes-DataStructer-main\opennn\x64\Debug\Projectes.exe
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\opennn\x64\Debug\project mangement systsem bank.exe
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\x64\Debug\project mangement systsem bank.exe

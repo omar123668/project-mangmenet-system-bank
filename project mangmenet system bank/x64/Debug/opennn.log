@@ -1,0 +1,66 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Projectes.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  project mangmenet system bank.cpp
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(164,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(264,22): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(301,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(335,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(361,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(397,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(459,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(483,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(521,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsString.h(525,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsUser.h(397,14): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsUser.h(32,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsInputValidation.h(132,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsInputValidation.h(136,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsBankClient.h(261,103): warning C4091: 'static ': ignored on left of 'clsBankClient::enSaveResults' when no variable is declared
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsBankClient.h(345,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTranferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsBankClient.h(34,9):
+  see declaration of 'clsBankClient::stTranferLogRecord'
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsBankClient.h(31,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsTotalBalanceScreen.h(45,85): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsListUsersScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsMangerUserScreen.h(26,58): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'project%20mangmenet%20system%20bank.cpp')
+  
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsBankClient.h(290): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\clsUser.h(336): warning C4715: 'clsUser::Save': not all control paths return a value
+  opennn.vcxproj -> C:\Users\lenovo\Desktop\projcet mangement system bank\Projectes-DataStructer-main\project mangmenet system bank\x64\Debug\project mangement systsem bank.exe
